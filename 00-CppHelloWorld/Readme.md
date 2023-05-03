@@ -1,2 +1,3 @@
 # AED
-compilador C++14
+compilador MinGw
+C++ 14
