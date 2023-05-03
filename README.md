@@ -1,6 +1,6 @@
-# AED
-K1051
-2023
-209.177-0
-Rossi
-Gianluca
+# Algoritmos y estructuras de datos
++ Curso:K1051
++ año: 2023
++ Legajo: 209.177-0
++ Apellido: Rossi
++ Nombre: Gianluca
